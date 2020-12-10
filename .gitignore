@@ -146,18 +146,13 @@ dmypy.json
 
 .idea/vcs.xml
 blog/__init__.py
-blog/admin.py
-blog/apps.py
+
 blog/migrations/__init__.py
-blog/models.py
-blog/tests.py
-blog/urls.py
-blog/views.py
+
 blog_project/__init__.py
 blog_project/asgi.py
 blog_project/settings.py
-blog_project/urls.py
+
 blog_project/wsgi.py
 manage.py
-static/
-templates/
+

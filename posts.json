@@ -1,0 +1,52 @@
+[
+  {
+    "title": "My updated post",
+    "content": "My first Updated Post!\r\n\r\nthis is exciting!",
+    "user_id": 1
+  },
+  {
+    "title": "My updated post",
+    "content": "A post from a different user",
+    "user_id": 2
+  },
+  {
+    "title": "Lorem post",
+    "content": "Lorem ipsum",
+    "user_id": 1
+  },
+  {
+    "title": "Facebook post",
+    "content": "Oh no just so may thisngs to write",
+    "user_id": 1
+  },
+  {
+    "title": "My my",
+    "content": "kkjdowjkdkw",
+    "user_id": 1
+  },
+  {
+    "title": "My my my",
+    "content": "Oh my",
+    "user_id": 2
+  },
+  {
+    "title": "You wont believe this title",
+    "content": "ya you wont really believe this",
+    "user_id": 2
+  },
+  {
+    "title": "Alright lets face this",
+    "content": "common this is getting boring",
+    "user_id": 2
+  },
+  {
+    "title": "Todo list",
+    "content": "Do so many things like: this and that",
+    "user_id": 1
+  },
+  {
+    "title": "Finnaly",
+    "content": "Welcome home",
+    "user_id": 2
+  }
+]
