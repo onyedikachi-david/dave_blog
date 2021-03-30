@@ -144,15 +144,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.idea/vcs.xml
-blog/__init__.py
-
-blog/migrations/__init__.py
-
-blog_project/__init__.py
-blog_project/asgi.py
-blog_project/settings.py
-
-blog_project/wsgi.py
-manage.py
-
