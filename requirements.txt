@@ -12,7 +12,6 @@ cffi==1.14.3
 chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
-cryptg==0.2.post1
 decorator==4.4.2
 distlib==0.3.1
 dj-database-url==0.5.0
